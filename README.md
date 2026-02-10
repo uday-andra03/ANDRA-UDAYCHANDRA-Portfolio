@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 2765ada9398998e67c68d150aebb5ae075fe5b62
 # 🚀 ANDRA UDAYCHANDRA — Portfolio Website
 
 A modern, fully responsive personal portfolio built with React + Vite, featuring animated UI, floating scroll effects, theme switch (Dark/Light), interactive components, and dynamic sections like Projects, Skills, Experience, and Certifications.
@@ -14,10 +10,6 @@ This portfolio is designed to showcase my development work cleanly and professio
 
 🔗 **Website:** [https://udaychandra-andra-portfolio.netlify.app/](https://udaychandra-andra-portfolio.netlify.app/)
 
-<<<<<<< HEAD
-=======
----
->>>>>>> 2765ada9398998e67c68d150aebb5ae075fe5b62
 
 ## 🖥️ Home Preview
 
@@ -172,5 +164,3 @@ dist
 
 💻 **GitHub:** [https://github.com/uday-andra03](https://github.com/uday-andra03)
 
-=======
-# Portfolio
