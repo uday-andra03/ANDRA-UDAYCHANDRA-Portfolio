@@ -1,5 +1,4 @@
-
-# 🚀 UDAYCHANDRA ANDRA — Portfolio Website
+# 🚀 ANDRA UDAYCHANDRA — Portfolio Website
 
 A modern, fully responsive personal portfolio built with React + Vite, featuring animated UI, floating scroll effects, theme switch (Dark/Light), interactive components, and dynamic sections like Projects, Skills, Experience, and Certifications.
 
@@ -9,13 +8,8 @@ This portfolio is designed to showcase my development work cleanly and professio
 
 ## 🎥 Live Demo
 
-🔗 **Website:** [https://andra-udaychandra-portfolio.netlify.app/](https://andra-udaychandra-portfolio.netlify.app/)
+🔗 **Website:** [https://udaychandra-andra-portfolio.netlify.app/](https://udaychandra-andra-portfolio.netlify.app/)
 
-📹 **Full Portfolio Walkthrough:**  
-
-https://github.com/uday-andra/ANDRA-UDAYCHANDRA-Portfolio/releases/download/v1.0.0/Portfolio.mp4
-
----
 
 ## 🖥️ Home Preview
 
@@ -27,31 +21,31 @@ https://github.com/uday-andra/ANDRA-UDAYCHANDRA-Portfolio/releases/download/v1.0
 
 ## ⭐ Features
 
-- ⚡ Fast and optimized **React + Vite** architecture  
-- 🎨 Smooth **3D animations**, scroll reveal effects, and floating transitions  
-- ☀️🌙 **Dark/Light theme toggle**  
-- 📂 Modern **Projects showcase** with tech badges and hover effects  
-- 🧩 Skills and Experience sections with enhanced UI  
-- 📄 Certifications viewer with animated 3D cards  
-- 💬 Fully functional contact form (**Node backend + MySQL**)  
-- 📱 Fully responsive design  
-- 🎯 Clean and maintainable component structure  
+- ⚡ Fast and optimized **React + Vite** architecture
+- 🎨 Smooth **3D animations**, scroll reveal effects, and floating transitions
+- ☀️🌙 **Dark/Light theme toggle**
+- 📂 Modern **Projects showcase** with tech badges and hover effects
+- 🧩 Skills and Experience sections with enhanced UI
+- 📄 Certifications viewer with animated 3D cards
+- 💬 Fully functional contact form (**Node backend + MySQL**)
+- 📱 Fully responsive design
+- 🎯 Clean and maintainable component structure
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- React.js  
-- Vite  
-- JavaScript (ES6+)  
-- CSS3  
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS3
 - TailwindCSS (optional)
 
 ### **Backend (Contact Form)**
-- Node.js  
-- Express.js  
-- MySQL  
+- Node.js
+- Express.js
+- MySQL
 
 ---
 
@@ -125,7 +119,7 @@ portfolio/
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/uday-andra/ANDRA-UDAYCHANDRA-Portfolio
+git clone https://github.com/uday-andra03/ANDRA-UDAYCHANDRA-Portfolio
 cd ANDRA-UDAYCHANDRA-Portfolio
 npm install
 npm run dev
@@ -164,9 +158,11 @@ dist
 
 ## 📬 Contact Me
 
-📧 **Email:** [udayandra003@gmail.com](mailto:udayandra003@gmail.com)
+📧 **Email:** [udayandranimblix@gmail.com](mailto:udayandranimblix@gmail.com)
 
 🔗 **LinkedIn:** [https://linkedin.com/in/andra-udaychandra](https://linkedin.com/in/andra-udaychandra)
 
-💻 **GitHub:** [https://github.com/uday-andra](https://github.com/uday-andra)
+💻 **GitHub:** [https://github.com/uday-andra03](https://github.com/uday-andra03)
 
+=======
+# Portfolio
