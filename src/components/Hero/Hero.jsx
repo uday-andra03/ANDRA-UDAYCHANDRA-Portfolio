@@ -53,10 +53,10 @@ export default function Hero() {
 
             <div className="card-info">
               <h1 className="card-name">Hi, I'm UDAYCHANDRA</h1>
-              <p className="card-role">Full Stack Java Developer</p>
+              <p className="card-role">Software Developer</p>
               <p className="card-bio">
-                Passionate about crafting efficient and scalable web applications with a focus on seamless user experiences.
-
+                I build scalable backend applications using Java, Spring Boot, and REST APIs. Currently working at Nimblix Technologies delivering reliable enterprise solutions.
+                Focused on clean architecture, performance, and real-world problem solving.
               </p>
 
               <div className="chips">
