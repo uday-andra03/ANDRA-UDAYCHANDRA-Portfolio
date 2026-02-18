@@ -74,14 +74,14 @@ export default function ContactForm() {
               <div className="info-avatar" aria-hidden="true">U</div>
               <div>
                 <h3 className="info-name">UDAYCHANDRA ANDRA</h3>
-                <p className="info-role">Full Stack Java Developer</p>
+                <p className="info-role">Software Developer</p>
               </div>
             </div>
 
             <div className="info-block">
               <h4>Get in touch</h4>
               <ul className="info-list">
-                <li><FaEnvelope className="icon" /> <a href="mailto:udayandra003@gmail.com">udayandra003@gmail.com</a></li>
+                <li><FaEnvelope className="icon" /> <a href="mailto:udayandranimblix@gmail.com">udayandranimblix@gmail.com</a></li>
                 <li><FaPhone className="icon" /> <a href="tel:+919381252086">+91 93812 52086</a></li>
                 <li><FaMapMarkerAlt className="icon" /> <span>Bangalore, India</span></li>
               </ul>
