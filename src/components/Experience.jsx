@@ -27,11 +27,18 @@ const educationData = [
 
 const experienceData = [
   {
+    period: '2026 – Present',
+    title: 'Software Developer',
+    place: 'Nimblix Technologies Pvt Ltd, Bengaluru',
+    description:
+      'Working as a Java developer building scalable backend applications using Spring Boot, REST APIs, Hibernate/JPA, and MySQL. Involved in designing, developing, and maintaining enterprise applications with clean architecture and performance-focused solutions.',
+  },
+  {
     period: '2025 – Present',
     title: 'Java Full-Stack Developer intern',
     place: 'Tech Company',
     description:
-      'Working on developing and maintaining secure web applications using Java, Spring Boot, and React. Collaborating with cross-functional teams to deliver high-quality software solutions.',
+      'Worked on developing and maintaining secure web applications using Java, Spring Boot, and React. Collaborating with cross-functional teams to deliver high-quality software solutions.',
   },
   {
     period: '2023 – 2024',
