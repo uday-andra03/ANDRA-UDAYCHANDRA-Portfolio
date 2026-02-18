@@ -83,7 +83,7 @@ export default function ContactForm() {
               <ul className="info-list">
                 <li><FaEnvelope className="icon" /> <a href="mailto:udayandranimblix@gmail.com">udayandranimblix@gmail.com</a></li>
                 <li><FaPhone className="icon" /> <a href="tel:+919381252086">+91 93812 52086</a></li>
-                <li><FaMapMarkerAlt className="icon" /> <span>Bangalore, India</span></li>
+                <li><FaMapMarkerAlt className="icon" /> <span>Bengaluru, India</span></li>
               </ul>
             </div>
 
@@ -92,7 +92,7 @@ export default function ContactForm() {
               <div className="social-row">
                 <a href="mailto:udayandra003@gmail.com" aria-label="Email"><FaEnvelope /></a>
                 <a href="https://www.linkedin.com/in/andra-udaychandra" target="_blank" rel="noreferrer" aria-label="LinkedIn"><FaLinkedin /></a>
-                <a href="https://github.com/uday-andra" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
+                <a href="https://github.com/uday-andra03" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
                 <a href="https://instagram.com/_.mr._.cool._._" target="_blank" rel="noreferrer" aria-label="Instagram"><FaInstagram /></a>
               </div>
             </div>
