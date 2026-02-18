@@ -17,7 +17,7 @@ export default function Footer() {
         {/* Left Section */}
         <div className="footer-section footer-brand">
           <h3 className="footer-title">Andra Udaychandra</h3>
-          <p className="footer-role">Full Stack Developer</p>
+          <p className="footer-role">Software Developer</p>
           <p className="footer-description">
             Building fast, scalable web experiences with modern Java &amp; React
             stacks. Always open to interesting collaborations and roles.
@@ -48,7 +48,7 @@ export default function Footer() {
           <h4 className="footer-heading">Contact Me</h4>
           <ul className="contact-list">
             <li>
-              <a href="mailto:udayandra003@gmail.com">
+              <a href="mailto:udayandranimblix@gmail.com">
                 <span className="contact-icon">
                   <FaEnvelope />
                 </span>
@@ -71,7 +71,7 @@ export default function Footer() {
 
             <li>
               <a
-                href="https://github.com/uday-andra"
+                href="https://github.com/uday-andra03"
                 target="_blank"
                 rel="noreferrer"
               >
