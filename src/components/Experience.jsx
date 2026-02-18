@@ -34,7 +34,7 @@ const experienceData = [
       'Working as a Java developer building scalable backend applications using Spring Boot, REST APIs, Hibernate/JPA, and MySQL. Involved in designing, developing, and maintaining enterprise applications with clean architecture and performance-focused solutions.',
   },
   {
-    period: '2025 – Present',
+    period: '2025 – 2026',
     title: 'Java Full-Stack Developer intern',
     place: 'Tech Company',
     description:
